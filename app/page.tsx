@@ -130,14 +130,14 @@ export default function Home() {
       </div>
 
       {/* Hero Section */}
-      <section className="relative bg-white pt-52 pb-16 px-4 md:px-12 md:pt-72 md:pb-32" id="about">
+      <section className="relative bg-white pt-48 pb-16 px-4 md:px-12 md:pt-60 md:pb-32" id="about">
         <div className="relative max-w-6xl mx-auto z-10">
-          <p className="text-blue-500 font-bold tracking-widest uppercase text-[10px] md:text-xs mb-4">Est. 2018 | CAC RC: 1462476</p>
           <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black text-[#152C4A] tracking-tighter mb-8 leading-[1.1]">
             One Company.<br/>Many Solutions.
           </h1>
           
           <div className="max-w-4xl border-l-4 border-blue-500 pl-4 md:pl-8 py-2">
+            <p className="text-blue-500 font-bold tracking-widest uppercase text-[9px] md:text-[10px] mb-6">Est. 2018 | CAC RC: 1462476</p>
             <p className="text-lg md:text-3xl text-gray-800 font-normal leading-relaxed mb-6">
               Founded in 2018, Amanzassa Global Resources has transformed from a localized operation into a diversified multi-sector enterprise. We build, finance, and scale sustainable solutions across critical areas of the regional economy.
             </p>
