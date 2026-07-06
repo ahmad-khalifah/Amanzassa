@@ -130,10 +130,10 @@ export default function Home() {
       </div>
 
       {/* Hero Section */}
-      <section className="relative bg-white pt-52 pb-16 px-4 md:px-12 md:pt-56 md:pb-32" id="about">
+      <section className="relative bg-white pt-52 pb-16 px-4 md:px-12 md:pt-72 md:pb-32" id="about">
         <div className="relative max-w-6xl mx-auto z-10">
-          <p className="text-blue-500 font-bold tracking-widest uppercase text-xs md:text-sm mb-4">Est. 2018 | CAC RC: 1462476</p>
-          <h1 className="text-4xl sm:text-5xl md:text-8xl font-black text-[#152C4A] tracking-tighter mb-8 leading-[1.1]">
+          <p className="text-blue-500 font-bold tracking-widest uppercase text-[10px] md:text-xs mb-4">Est. 2018 | CAC RC: 1462476</p>
+          <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black text-[#152C4A] tracking-tighter mb-8 leading-[1.1]">
             One Company.<br/>Many Solutions.
           </h1>
           
