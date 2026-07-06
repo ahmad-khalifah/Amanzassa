@@ -5,7 +5,7 @@ import { notFound } from 'next/navigation';
 const divisionData = {
   transportation: {
     title: 'Transportation & Logistics',
-    longDesc: 'Operating since 2018, Amanzassa Global Resources has systematically scaled its mobility finance division to empower local transit economies. Through our targeted asset deployment framework, we have helped more than 1,000+ low-income drivers secure access to commercial tricycles (Keke Napep). By transforming unbacked transport demand into structured hire-purchase agreements, we enable drivers across underserved regions—primarily scaling operations in Taraba and Adamawa states—to achieve financial autonomy while actively strengthening municipal logistics networks.',
+    longDesc: 'Operating since 2018, Amanzassa Global Resources has systematically scaled its mobility finance division to empower local transit economies. Through our targeted asset deployment framework, we have helped more than 1,000+ low-income drivers secure access to commercial tricycles (Keke Napep). By transforming unbacked transport demand into structured hire-purchase agreements, we enable drivers across underserved regions primarily scaling operations in Taraba and Adamawa states to achieve financial autonomy while actively strengthening municipal logistics networks.',
     image: '/transportation 1.jpeg',
     stats: [
       { value: '1,000+', label: 'Drivers Empowered' },
